@@ -1,1 +1,9 @@
-prueba
+@misc{
+    c.elmohamed,
+    author = "Saleh Elmohamed",
+    title = "Examples in {H}igh {P}erformance {F}ortran",
+    howpublished = "Website",
+    year = {1996},
+    note = {\url{http://www.npac.syr.edu/projects/
+                    cpsedu/summer98summary/ examples/hpf/hpf.html}}
+}
